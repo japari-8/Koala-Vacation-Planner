@@ -6,7 +6,8 @@ excursions. Also allows for sharing vacations with others and setting notificati
 Additional features include search and report  generation.
 
 ## Author
-Juan Aparicio Jr Contact: japari6@wgu.edu
+Juan Aparicio Jr 
+###Contact: japari6@wgu.edu
 V 0.0.2 Date: 04-28-2026
 
 ## GitLab Repository
